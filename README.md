@@ -1,5 +1,9 @@
-### Hi there 👋
+<h1 align="center"><strong> Hi there <img src="https://raw.githubusercontent.com/yohan-th/yohan-th/master/hi.gif" width="30px"> I'm Yohan</strong></h1>
 
+<img align="right" src="https://raw.githubusercontent.com/yohan-th/yohan-th/master/me_coding.gif" height="235px" width="auto">
+
+<h3 align="left"><strong>
+I seek to contribute to this world with my algorithms and abstractions.</strong></h3>
 <!--
 **yohan-th/yohan-th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
