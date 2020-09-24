@@ -2,9 +2,10 @@
 
 <img align="right" src="https://raw.githubusercontent.com/yohan-th/yohan-th/master/me_coding.gif" height="235px" width="auto">
 
-<br/><br/>
+<br/>
 
-<p align="left">I'm a __backend developer__ and __Unix administrator__ based in __France__ 🇫🇷 I love maintainable and scalable code 👨‍💻 always looking for new tricks to make it more beautiful ✨<p>
+<p align="left">I'm a <strong>backend developer</strong> and <strong>Unix administrator</strong> based in <strong>France</strong> 🇫🇷 <br/>
+I love maintainable and scalable code 👨‍💻 always looking for new tricks to make it more beautiful ✨<p>
 
 <br/>
 
