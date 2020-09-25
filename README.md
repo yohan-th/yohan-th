@@ -12,7 +12,8 @@ I love maintainable and scalable code 👨‍💻 always looking for new tricks 
 * 👨‍🎓 I'm 42 alumni from Lyon and Kyiv<br/>
 * 🌱 I’m currently learning computer vision <br/>
 * 🌐 Check my online resume <a href="https://yohan.world" target="_blank">www.yohan.world</a>
-
+<br/>
+<img align="center" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohan-th&layout=compact">
 <!--
 **yohan-th/yohan-th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
