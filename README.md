@@ -1,4 +1,4 @@
-<h1 align="center"><strong> Hi there <img src="https://raw.githubusercontent.com/yohan-th/yohan-th/master/hi.gif" width="30px"> I'm Yohan</strong></h1>
+<h1 align="center"><strong> Hi there 👋 I'm Yohan</strong></h1>
 
 <img align="right" src="https://raw.githubusercontent.com/yohan-th/yohan-th/master/me_coding.gif" height="235px" width="auto">
 
@@ -9,8 +9,8 @@ I love maintainable and scalable code 👨‍💻 always looking for new tricks 
 
 <br/>
 
-* 👨‍🎓 I'm 42 alumni from Lyon and Kyiv<br/>
-* 🌱 I’m currently learning computer vision <br/>
+* 👨‍🎓 I'm 42 alumni from Lyon and Kyiv, curently <br/>
+* 🚀 I’m currently lunching the 33 campus of 42 Network in Alsace, France <br/>
 * 🌐 Check my online resume <a href="https://yohan.world" target="_blank">www.yohan.world</a>
 
 <!--
