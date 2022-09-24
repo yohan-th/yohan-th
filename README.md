@@ -10,7 +10,7 @@ I love maintainable and scalable code 👨‍💻 always looking for new tricks 
 <br/>
 
 * 👨‍🎓 I'm 42 alumni from Lyon and Kyiv <br/>
-* 🚀 I’m currently lunching the 33 campus of 42 Network in Alsace, France <br/>
+* 🚀 I’m currently lunching the 33rd campus of <a href="https://www.42network.org/" target="_blank">42 Network</a> in Alsace, France <br/>
 * 🌐 Check my online resume <a href="https://yohan.world" target="_blank">www.yohan.world</a>
 
 <!--
